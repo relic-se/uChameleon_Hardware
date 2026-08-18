@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="85.999916mm"
+   height="86mm"
+   viewBox="0 0 325.03905 325.03936"
+   sodipodi:docname="faceplate-cut-outer.svg"
+   inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="1.4198293"
+     inkscape:cx="158.82191"
+     inkscape:cy="214.4624"
+     inkscape:window-width="1728"
+     inkscape:window-height="1382"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g1"
+     showguides="false"
+     inkscape:document-units="mm">
+    <inkscape:page
+       x="0"
+       y="0"
+       inkscape:label="1"
+       id="page1"
+       width="325.03903"
+       height="325.03937"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="g1"
+     inkscape:groupmode="layer"
+     inkscape:label="1"
+     transform="translate(-234.33008,-350.55118)">
+    <path
+       id="rect2"
+       style="stroke-width:0"
+       d="m 245.66866,350.55118 h 302.3619 c 6.28157,0 11.33858,5.05701 11.33858,11.33858 v 302.3622 c 0,6.28158 -5.05701,11.33859 -11.33858,11.33859 h -302.3619 c -6.28157,0 -11.33858,-5.05701 -11.33858,-11.33859 v -302.3622 c 0,-6.28157 5.05701,-11.33858 11.33858,-11.33858 z" />
+  </g>
+</svg>

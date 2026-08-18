@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="345.82675"
+   height="442.20468"
+   viewBox="0 0 345.82675 442.20467"
+   sodipodi:docname="faceplate-default.svg"
+   inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="1.4198293"
+     inkscape:cx="169.38656"
+     inkscape:cy="225.02705"
+     inkscape:window-width="1728"
+     inkscape:window-height="1382"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g1"
+     showguides="false">
+    <inkscape:page
+       x="2.50632e-06"
+       y="2.8479687e-06"
+       inkscape:label="1"
+       id="page1"
+       width="345.82675"
+       height="442.20468"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="g1"
+     inkscape:groupmode="layer"
+     inkscape:label="1"
+     transform="translate(-223.937,-340.15751)">
+    <rect
+       style="fill:#000000;fill-opacity:0.0969479;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2"
+       width="325.03906"
+       height="325.03937"
+       x="234.33008"
+       y="350.55118"
+       rx="11.338583"
+       ry="11.338583" />
+    <g
+       id="g3">
+      <circle
+         style="fill:#000000;fill-opacity:0.5;stroke-width:0"
+         id="path126-5-8-9-2"
+         cx="501.54327"
+         cy="727.37012"
+         r="34.015747" />
+      <circle
+         style="fill:#000000;fill-opacity:0.5;stroke-width:0"
+         id="path126-5-8-9"
+         cx="292.15747"
+         cy="727.37012"
+         r="34.015747" />
+      <path
+         id="path126"
+         style="fill:#000000;fill-opacity:0.5;stroke-width:0"
+         d="m 308.03148,426.33072 a 24.566927,24.566927 0 0 1 -24.56693,24.56693 24.566927,24.566927 0 0 1 -24.56693,-24.56693 24.566927,24.566927 0 0 1 24.56693,-24.56693 24.566927,24.566927 0 0 1 24.56693,24.56693 z" />
+      <path
+         id="path126-8"
+         style="fill:#000000;fill-opacity:0.5;stroke-width:0"
+         d="m 534.80313,426.33072 a 24.56693,24.566927 0 0 1 -24.56693,24.56693 24.56693,24.566927 0 0 1 -24.56693,-24.56693 24.56693,24.566927 0 0 1 24.56693,-24.56693 24.56693,24.566927 0 0 1 24.56693,24.56693 z" />
+      <path
+         id="path126-3"
+         style="fill:#000000;fill-opacity:0.5;stroke-width:0"
+         d="m 421.4173,528.37797 a 24.56693,24.566927 0 0 1 -24.56693,24.56693 24.56693,24.566927 0 0 1 -24.56693,-24.56693 24.56693,24.566927 0 0 1 24.56693,-24.56693 24.56693,24.566927 0 0 1 24.56693,24.56693 z" />
+      <path
+         id="path126-5"
+         style="fill:#000000;fill-opacity:0.5;stroke-width:0"
+         d="m 534.80313,528.37793 a 24.566929,24.566929 0 0 1 -24.56692,24.56693 24.566929,24.566929 0 0 1 -24.56693,-24.56693 24.566929,24.566929 0 0 1 24.56693,-24.56693 24.566929,24.566929 0 0 1 24.56692,24.56693 z" />
+      <path
+         id="path126-5-2"
+         style="fill:#000000;fill-opacity:0.5;stroke-width:0"
+         d="m 413.85825,426.33072 a 17.007873,17.007873 0 0 1 -17.00788,17.00788 17.007873,17.007873 0 0 1 -17.00787,-17.00788 17.007873,17.007873 0 0 1 17.00787,-17.00787 17.007873,17.007873 0 0 1 17.00788,17.00787 z" />
+      <path
+         id="path126-5-8"
+         style="fill:#000000;fill-opacity:0.5;stroke-width:0"
+         d="m 308.03147,528.37793 a 24.566929,24.566929 0 0 1 -24.56693,24.56693 24.566929,24.566929 0 0 1 -24.56693,-24.56693 24.566929,24.566929 0 0 1 24.56693,-24.56693 24.566929,24.566929 0 0 1 24.56693,24.56693 z" />
+    </g>
+    <path
+       id="path8"
+       d="M 224.12597,766.11024 V 356.40947 c 0,-8.87135 7.19165,-16.06299 16.06299,-16.06299 h 313.32282 c 8.87135,0 16.063,8.87134 16.063,16.06299 v 409.70077 c 0,8.87135 -8.87134,16.06299 -16.063,16.06299 H 240.18896 c -8.87134,0 -16.06299,-8.87135 -16.06299,-16.06299 z"
+       style="fill:none;stroke:#000000;stroke-width:0.377953;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       id="g2">
+      <text
+         xml:space="preserve"
+         style="font-weight:600;font-size:13.3333px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ba4043;stroke-width:0"
+         x="292.39746"
+         y="665.19995"
+         id="text1"><tspan
+           sodipodi:role="line"
+           id="tspan1"
+           x="292.39746"
+           y="665.19995"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:13.3333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1">MOD</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:600;font-size:13.3333px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ba4043;stroke-width:0"
+         x="396.25037"
+         y="584.25385"
+         id="text1-3"><tspan
+           sodipodi:role="line"
+           id="tspan1-2"
+           x="396.25037"
+           y="584.25385"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:13.3333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1">POT1</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:600;font-size:13.3333px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ba4043;stroke-width:0"
+         x="283.16455"
+         y="584.44049"
+         id="text1-3-4"><tspan
+           sodipodi:role="line"
+           id="tspan1-2-8"
+           x="283.16455"
+           y="584.44049"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:13.3333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1">SW0</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:600;font-size:13.3333px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ba4043;stroke-width:0"
+         x="282.97787"
+         y="482.02097"
+         id="text1-3-8"><tspan
+           sodipodi:role="line"
+           id="tspan1-2-5"
+           x="282.97787"
+           y="482.02097"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:13.3333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1">POT0</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:600;font-size:13.3333px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ba4043;stroke-width:0"
+         x="510.4762"
+         y="482.02097"
+         id="text1-3-8-4"><tspan
+           sodipodi:role="line"
+           id="tspan1-2-5-0"
+           x="510.4762"
+           y="482.02097"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:13.3333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1">POT2</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:600;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ba4043;stroke-width:0"
+         x="397.2077"
+         y="384.32101"
+         id="text1-7-7"><tspan
+           sodipodi:role="line"
+           id="tspan1-4-8"
+           x="397.2077"
+           y="384.32101"
+           style="font-style:italic;font-variant:normal;font-weight:800;font-stretch:normal;font-size:16px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold Italic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1">μChameleon</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:600;font-size:13.3333px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ba4043;stroke-width:0"
+         x="501.21658"
+         y="665.19995"
+         id="text1-1"><tspan
+           sodipodi:role="line"
+           id="tspan1-7"
+           x="501.21658"
+           y="665.19995"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:13.3333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0">BYPASS</tspan></text>
+      <g
+         id="g1-0"
+         transform="translate(113.74585,-1.4390869)">
+        <text
+           xml:space="preserve"
+           style="font-weight:600;font-size:13.3333px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ba4043;stroke-width:0"
+           x="396.25037"
+           y="585.69293"
+           id="text1-3-6"><tspan
+             sodipodi:role="line"
+             id="tspan1-2-57"
+             x="396.25037"
+             y="585.69293"
+             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:13.3333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1">SW1</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-weight:600;font-size:13.3333px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ba4043;stroke-width:0"
+         x="396.61331"
+         y="482.02097"
+         id="text1-3-8-6"><tspan
+           sodipodi:role="line"
+           id="tspan1-2-5-4"
+           x="396.61331"
+           y="482.02097"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:13.3333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1">LED0</tspan></text>
+    </g>
+  </g>
+</svg>
