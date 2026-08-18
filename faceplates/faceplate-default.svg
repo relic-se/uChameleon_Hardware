@@ -25,14 +25,14 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      inkscape:zoom="1.4198293"
-     inkscape:cx="169.38656"
+     inkscape:cx="169.0344"
      inkscape:cy="225.02705"
      inkscape:window-width="1728"
      inkscape:window-height="1382"
      inkscape:window-x="0"
      inkscape:window-y="30"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g1"
+     inkscape:current-layer="g2"
      showguides="false">
     <inkscape:page
        x="2.50632e-06"
@@ -113,7 +113,7 @@
            id="tspan1"
            x="292.39746"
            y="665.19995"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:13.3333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1">MOD</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:13.3333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1">BTN0</tspan></text>
       <text
          xml:space="preserve"
          style="font-weight:600;font-size:13.3333px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ba4043;stroke-width:0"
@@ -179,7 +179,7 @@
            id="tspan1-7"
            x="501.21658"
            y="665.19995"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:13.3333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0">BYPASS</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:13.3333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0">BTN1</tspan></text>
       <g
          id="g1-0"
          transform="translate(113.74585,-1.4390869)">
