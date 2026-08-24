@@ -7,7 +7,7 @@
    width="345.82675"
    height="442.20468"
    viewBox="0 0 345.82675 442.20467"
-   sodipodi:docname="faceplate-default.svg"
+   sodipodi:docname="faceplate-echo.svg"
    inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,14 +25,14 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      inkscape:zoom="1.4198293"
-     inkscape:cx="169.0344"
-     inkscape:cy="225.02705"
+     inkscape:cx="160.23053"
+     inkscape:cy="403.21749"
      inkscape:window-width="1728"
      inkscape:window-height="1382"
-     inkscape:window-x="0"
+     inkscape:window-x="1712"
      inkscape:window-y="30"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g2"
+     inkscape:current-layer="g1"
      showguides="false">
     <inkscape:page
        x="2.50632e-06"
@@ -49,6 +49,10 @@
      inkscape:groupmode="layer"
      inkscape:label="1"
      transform="translate(-223.937,-340.15751)">
+    <path
+       id="path8"
+       d="M 224.12597,766.11024 V 356.40947 c 0,-8.87135 7.19165,-16.06299 16.06299,-16.06299 h 313.32282 c 8.87135,0 16.063,8.87134 16.063,16.06299 v 409.70077 c 0,8.87135 -8.87134,16.06299 -16.063,16.06299 H 240.18896 c -8.87134,0 -16.06299,-8.87135 -16.06299,-16.06299 z"
+       style="fill:none;stroke:#000000;stroke-width:0.377953;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
     <rect
        style="fill:#000000;fill-opacity:0.0969479;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
        id="rect2"
@@ -97,12 +101,30 @@
          style="fill:#000000;fill-opacity:0.5;stroke-width:0"
          d="m 308.03147,528.37793 a 24.566929,24.566929 0 0 1 -24.56693,24.56693 24.566929,24.566929 0 0 1 -24.56693,-24.56693 24.566929,24.566929 0 0 1 24.56693,-24.56693 24.566929,24.566929 0 0 1 24.56693,24.56693 z" />
     </g>
-    <path
-       id="path8"
-       d="M 224.12597,766.11024 V 356.40947 c 0,-8.87135 7.19165,-16.06299 16.06299,-16.06299 h 313.32282 c 8.87135,0 16.063,8.87134 16.063,16.06299 v 409.70077 c 0,8.87135 -8.87134,16.06299 -16.063,16.06299 H 240.18896 c -8.87134,0 -16.06299,-8.87135 -16.06299,-16.06299 z"
-       style="fill:none;stroke:#000000;stroke-width:0.377953;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
     <g
        id="g2">
+      <text
+         xml:space="preserve"
+         style="font-weight:600;font-size:8px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ba4043;stroke-width:0"
+         x="255.30156"
+         y="531.17792"
+         id="text1-3-4-5-3"><tspan
+           sodipodi:role="line"
+           id="tspan1-2-8-9-1"
+           x="255.30156"
+           y="531.17792"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:8px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1">OFF</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:600;font-size:8px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ba4043;stroke-width:0"
+         x="482.07321"
+         y="531.17792"
+         id="text1-3-4-5-3-0"><tspan
+           sodipodi:role="line"
+           id="tspan1-2-8-9-1-3"
+           x="482.07321"
+           y="531.17792"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:8px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1">OFF</tspan></text>
       <text
          xml:space="preserve"
          style="font-weight:600;font-size:13.3333px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ba4043;stroke-width:0"
@@ -113,7 +135,7 @@
            id="tspan1"
            x="292.39746"
            y="665.19995"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:13.3333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1">BTN0</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:13.3333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1">TAP / INFINITE</tspan></text>
       <text
          xml:space="preserve"
          style="font-weight:600;font-size:13.3333px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ba4043;stroke-width:0"
@@ -124,7 +146,7 @@
            id="tspan1-2"
            x="396.25037"
            y="584.25385"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:13.3333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1">POT1</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:13.3333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1">DECAY</tspan></text>
       <text
          xml:space="preserve"
          style="font-weight:600;font-size:13.3333px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ba4043;stroke-width:0"
@@ -135,7 +157,7 @@
            id="tspan1-2-8"
            x="283.16455"
            y="584.44049"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:13.3333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1">SW0</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:13.3333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1">FILTER</tspan></text>
       <text
          xml:space="preserve"
          style="font-weight:600;font-size:13.3333px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ba4043;stroke-width:0"
@@ -146,7 +168,7 @@
            id="tspan1-2-5"
            x="282.97787"
            y="482.02097"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:13.3333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1">POT0</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:13.3333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1">MIX</tspan></text>
       <text
          xml:space="preserve"
          style="font-weight:600;font-size:13.3333px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ba4043;stroke-width:0"
@@ -157,7 +179,18 @@
            id="tspan1-2-5-0"
            x="510.4762"
            y="482.02097"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:13.3333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1">POT2</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:13.3333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1">TIME</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:600;font-size:32px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ba4043;stroke-width:0"
+         x="396.37039"
+         y="481.57297"
+         id="text1-0-9"><tspan
+           sodipodi:role="line"
+           id="tspan1-9-6"
+           x="396.37039"
+           y="481.57297"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:32px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1">ECHO</tspan></text>
       <text
          xml:space="preserve"
          style="font-weight:600;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ba4043;stroke-width:0"
@@ -179,33 +212,40 @@
            id="tspan1-7"
            x="501.21658"
            y="665.19995"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:13.3333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0">BTN1</tspan></text>
-      <g
-         id="g1-0"
-         transform="translate(113.74585,-1.4390869)">
-        <text
-           xml:space="preserve"
-           style="font-weight:600;font-size:13.3333px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ba4043;stroke-width:0"
-           x="396.25037"
-           y="585.69293"
-           id="text1-3-6"><tspan
-             sodipodi:role="line"
-             id="tspan1-2-57"
-             x="396.25037"
-             y="585.69293"
-             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:13.3333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1">SW1</tspan></text>
-      </g>
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:13.3333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0">BYPASS</tspan></text>
       <text
          xml:space="preserve"
          style="font-weight:600;font-size:13.3333px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ba4043;stroke-width:0"
-         x="396.61331"
-         y="482.02097"
-         id="text1-3-8-6"><tspan
+         x="509.99622"
+         y="584.25385"
+         id="text1-3-6"><tspan
            sodipodi:role="line"
-           id="tspan1-2-5-4"
-           x="396.61331"
-           y="482.02097"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:13.3333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1">LED0</tspan></text>
+           id="tspan1-2-57"
+           x="509.99622"
+           y="584.25385"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:13.3333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1">LFO</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:600;font-size:8px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ba4043;stroke-width:0"
+         x="311.53903"
+         y="531.17792"
+         id="text1-3-4-5"><tspan
+           sodipodi:role="line"
+           id="tspan1-2-8-9"
+           x="311.53903"
+           y="531.17792"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:8px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">ON</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:600;font-size:8px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ba4043;stroke-width:0"
+         x="538.31067"
+         y="531.17792"
+         id="text1-3-4-5-0"><tspan
+           sodipodi:role="line"
+           id="tspan1-2-8-9-2"
+           x="538.31067"
+           y="531.17792"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:8px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">ON</tspan></text>
     </g>
   </g>
 </svg>

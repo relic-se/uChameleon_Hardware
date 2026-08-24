@@ -25,14 +25,14 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      inkscape:zoom="1.4198293"
-     inkscape:cx="153.89174"
-     inkscape:cy="126.42365"
+     inkscape:cx="232.07015"
+     inkscape:cy="260.94686"
      inkscape:window-width="1728"
      inkscape:window-height="1382"
      inkscape:window-x="0"
      inkscape:window-y="30"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g1"
+     inkscape:current-layer="g5"
      showguides="false">
     <inkscape:page
        x="2.50632e-06"
@@ -60,7 +60,7 @@
        inkscape:label="cut-outer"
        d="m 245.66866,350.55118 h 302.3619 c 6.28157,0 11.33858,5.05701 11.33858,11.33858 v 302.3622 c 0,6.28158 -5.05701,11.33859 -11.33858,11.33859 h -302.3619 c -6.28157,0 -11.33858,-5.05701 -11.33858,-11.33859 v -302.3622 c 0,-6.28157 5.05701,-11.33858 11.33858,-11.33858 z" />
     <g
-       id="g3"
+       id="g5"
        inkscape:label="holes">
       <path
          id="path126-5-8-9-2"
@@ -130,30 +130,86 @@
            x="292.39746"
            y="665.19995"
            style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:13.3333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1">BTN0</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-weight:600;font-size:13.3333px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ba4043;stroke-width:0"
-         x="509.99622"
-         y="584.25385"
-         id="text1-3-6"
-         inkscape:label="label-sw1"><tspan
-           sodipodi:role="line"
-           id="tspan1-2-57"
+      <g
+         id="g3"
+         inkscape:label="labels-sw1">
+        <text
+           xml:space="preserve"
+           style="font-weight:600;font-size:8px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ba4043;stroke-width:0"
+           x="538.31067"
+           y="531.17792"
+           id="text1-3-4-5"
+           inkscape:label="label-sw1-on"><tspan
+             sodipodi:role="line"
+             id="tspan1-2-8-9"
+             x="538.31067"
+             y="531.17792"
+             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:8px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">ON</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-weight:600;font-size:8px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ba4043;stroke-width:0"
+           x="482.07321"
+           y="531.17792"
+           id="text1-3-4-5-3-0"
+           inkscape:label="label-sw1-off"><tspan
+             sodipodi:role="line"
+             id="tspan1-2-8-9-1-4"
+             x="482.07321"
+             y="531.17792"
+             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:8px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1">OFF</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-weight:600;font-size:13.3333px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ba4043;stroke-width:0"
            x="509.99622"
            y="584.25385"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:13.3333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1">SW1</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-weight:600;font-size:13.3333px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ba4043;stroke-width:0"
-         x="283.16455"
-         y="584.44049"
-         id="text1-3-4"
-         inkscape:label="label-sw0"><tspan
-           sodipodi:role="line"
-           id="tspan1-2-8"
+           id="text1-3-6"
+           inkscape:label="label-sw1"><tspan
+             sodipodi:role="line"
+             id="tspan1-2-57"
+             x="509.99622"
+             y="584.25385"
+             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:13.3333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1">SW1</tspan></text>
+      </g>
+      <g
+         id="g4"
+         inkscape:label="labels-sw0">
+        <text
+           xml:space="preserve"
+           style="font-weight:600;font-size:8px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ba4043;stroke-width:0"
+           x="311.53903"
+           y="531.17792"
+           id="text1-3-4-5-2"
+           inkscape:label="label-sw0-on"><tspan
+             sodipodi:role="line"
+             id="tspan1-2-8-9-4"
+             x="311.53903"
+             y="531.17792"
+             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:8px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">ON</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-weight:600;font-size:8px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ba4043;stroke-width:0"
+           x="255.30156"
+           y="531.17792"
+           id="text1-3-4-5-3"
+           inkscape:label="label-sw0-off"><tspan
+             sodipodi:role="line"
+             id="tspan1-2-8-9-1"
+             x="255.30156"
+             y="531.17792"
+             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:8px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1">OFF</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-weight:600;font-size:13.3333px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ba4043;stroke-width:0"
            x="283.16455"
            y="584.44049"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:13.3333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1">SW0</tspan></text>
+           id="text1-3-4"
+           inkscape:label="label-sw0"><tspan
+             sodipodi:role="line"
+             id="tspan1-2-8"
+             x="283.16455"
+             y="584.44049"
+             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:13.3333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1">SW0</tspan></text>
+      </g>
       <text
          xml:space="preserve"
          style="font-weight:600;font-size:13.3333px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ba4043;stroke-width:0"
