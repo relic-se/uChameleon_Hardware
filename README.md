@@ -36,8 +36,8 @@ The following table defines the pin configuration for the Raspberry Pi Pico (1 o
 | GP17 | PWM | LED1 | Secondary led indicator output |
 | GP18 | _Unused_ | | |
 | GP19 | _Unused_ | | |
-| GP20 | I2C | SDA1 | Codec control data input/output |
-| GP21 | I2C | SCL1 | Codec control clock |
+| GP20 | I2C | SDA0 | Codec control data input/output |
+| GP21 | I2C | SCL0 | Codec control clock |
 | GP22 | GPIO | MUX | ADC multiplexer bank switch output _(active high)_ |
 | GP26 | ADC | ADC0 | Input for POT0/3 |
 | GP27 | ADC | ADC1 | Input for POT1/4 |
