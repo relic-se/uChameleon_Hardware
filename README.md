@@ -24,8 +24,8 @@ The following table defines the pin configuration for the Raspberry Pi Pico (1 o
 | GP5 | I2S | MCLK | Master clock |
 | GP6 | I2S | BCLK | Bit clock |
 | GP7 | I2S | WCLK | Word clock |
-| GP8 | I2S | DOUT | Digital audio data out (DAC) |
-| GP9 | I2S | DIN | Digital audio data in (ADC) |
+| GP8 | I2S | DIN | Digital audio data (DAC) |
+| GP9 | I2S | DOUT | Digital audio data (ADC) |
 | GP10 | GPIO | BYPASS | Preamp true bypass output _(active low)_ |
 | GP11 | _Unused_ | | |
 | GP12 | GPIO | BTN0 | Left footswitch button input |
