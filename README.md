@@ -1,5 +1,5 @@
 # μChameleon Hardware
-Digital guitar effects pedal designed around the Raspberry Pi Pico 2 and the TLC320AIC3204.
+Digital guitar effects pedal designed around the Raspberry Pi Pico 2 and the TLV320AIC3204.
 
 | 3D Enclosure | PCB Top | PCB Bottom |
 |-|-|-|
